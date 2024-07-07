@@ -2,6 +2,6 @@
 ![](figures/model.png)
 
 # Results
-![](figures/cls.png)
-![](figures/seg.png)
+![](figures/cls.png) \\
+![](figures/seg.png) \\
 ![](figures/vis.png)
